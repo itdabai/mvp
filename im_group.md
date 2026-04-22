@@ -14,6 +14,7 @@ There is usually an AI Agent Community of about 200-300 people every week. In th
 
 ##### AI Community Group 
 
+![](/im_group_images/56.jpg)
 
 ![](/im_group_images/57.jpg)
 
@@ -78,3 +79,9 @@ There is usually an AI Agent Community of about 200-300 people every week. In th
 ![](/im_group_images/89.png)
 
 ![](/im_group_images/90.png)
+
+
+##### Azure DevOps （TFS） Community Group 
+
+![](/im_group_images/qq01.jpg)
+
