@@ -3,6 +3,9 @@
 The AI ​​OPC Hands-on Training Camp attracted over 120 participants. Zhou Wenyang provided hands-on guidance on writing AI prompts, using AI tools, and building and developing AI agents.
 
 
+[AI OPC Video 001](/ai_opc/video01.mp4)
+
+
 ![](/ai_opc/001.JPG)
 
 ![](/ai_opc/002.JPG)
